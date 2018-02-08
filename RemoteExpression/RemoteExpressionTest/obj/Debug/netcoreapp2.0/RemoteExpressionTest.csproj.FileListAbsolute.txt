@@ -1,0 +1,16 @@
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\RemoteExpressionTest.deps.json
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\RemoteExpressionTest.runtimeconfig.json
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\RemoteExpressionTest.runtimeconfig.dev.json
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\RemoteExpressionTest.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\RemoteExpressionTest.pdb
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\obj\Debug\netcoreapp2.0\RemoteExpressionTest.csprojResolveAssemblyReference.cache
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\obj\Debug\netcoreapp2.0\RemoteExpressionTest.csproj.CoreCompileInputs.cache
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\obj\Debug\netcoreapp2.0\RemoteExpressionTest.AssemblyInfoInputs.cache
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\obj\Debug\netcoreapp2.0\RemoteExpressionTest.AssemblyInfo.cs
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\obj\Debug\netcoreapp2.0\RemoteExpressionTest.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\obj\Debug\netcoreapp2.0\RemoteExpressionTest.pdb
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\ExpressionSerialization.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\RemoteExpressionTest\bin\Debug\netcoreapp2.0\ExpressionSerialization.pdb

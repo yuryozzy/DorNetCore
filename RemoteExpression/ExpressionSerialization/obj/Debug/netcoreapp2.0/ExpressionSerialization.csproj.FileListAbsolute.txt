@@ -1,0 +1,9 @@
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\obj\Debug\netcoreapp2.0\ExpressionSerialization.csproj.CoreCompileInputs.cache
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\obj\Debug\netcoreapp2.0\ExpressionSerialization.AssemblyInfoInputs.cache
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\obj\Debug\netcoreapp2.0\ExpressionSerialization.AssemblyInfo.cs
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\obj\Debug\netcoreapp2.0\ExpressionSerialization.csprojResolveAssemblyReference.cache
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\bin\Debug\netcoreapp2.0\ExpressionSerialization.deps.json
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\bin\Debug\netcoreapp2.0\ExpressionSerialization.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\bin\Debug\netcoreapp2.0\ExpressionSerialization.pdb
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\obj\Debug\netcoreapp2.0\ExpressionSerialization.dll
+D:\Private\SRC\DorNetCore\RemoteExpression\ExpressionSerialization\obj\Debug\netcoreapp2.0\ExpressionSerialization.pdb

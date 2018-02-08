@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteExpressionTest", "RemoteExpressionTest\RemoteExpressionTest.csproj", "{FB05F188-4FD4-457E-94B7-86902C0CAEC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionSerialization1", "..\..\..\..\SolidRay2013.121114\ExpressionSerialization\ExpressionSerialization\ExpressionSerialization1.csproj", "{01ABE4DB-4ABE-4B0E-878B-B42A8C9B6560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionSerialization", "ExpressionSerialization\ExpressionSerialization.csproj", "{6A9B50E6-6B4F-41E7-B363-23DC23F956E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB05F188-4FD4-457E-94B7-86902C0CAEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB05F188-4FD4-457E-94B7-86902C0CAEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB05F188-4FD4-457E-94B7-86902C0CAEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB05F188-4FD4-457E-94B7-86902C0CAEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01ABE4DB-4ABE-4B0E-878B-B42A8C9B6560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ABE4DB-4ABE-4B0E-878B-B42A8C9B6560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ABE4DB-4ABE-4B0E-878B-B42A8C9B6560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ABE4DB-4ABE-4B0E-878B-B42A8C9B6560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9B50E6-6B4F-41E7-B363-23DC23F956E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9B50E6-6B4F-41E7-B363-23DC23F956E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9B50E6-6B4F-41E7-B363-23DC23F956E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9B50E6-6B4F-41E7-B363-23DC23F956E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20FFD0E-E496-49B4-B88F-B9D949771436}
+	EndGlobalSection
+EndGlobal
